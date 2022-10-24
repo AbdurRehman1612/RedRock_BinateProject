@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.413fd350.chunk.css",
+    "main.js": "/static/js/main.39b574c0.chunk.js",
+    "main.js.map": "/static/js/main.39b574c0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.efd31140.js",
+    "runtime-main.js.map": "/static/js/runtime-main.efd31140.js.map",
+    "static/css/2.ee90a3fe.chunk.css": "/static/css/2.ee90a3fe.chunk.css",
+    "static/js/2.35a8ccdf.chunk.js": "/static/js/2.35a8ccdf.chunk.js",
+    "static/js/2.35a8ccdf.chunk.js.map": "/static/js/2.35a8ccdf.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.21ad84dc25298176da59e54298d42efe.js": "/precache-manifest.21ad84dc25298176da59e54298d42efe.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.ee90a3fe.chunk.css.map": "/static/css/2.ee90a3fe.chunk.css.map",
+    "static/css/main.413fd350.chunk.css.map": "/static/css/main.413fd350.chunk.css.map",
+    "static/js/2.35a8ccdf.chunk.js.LICENSE.txt": "/static/js/2.35a8ccdf.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/weathericons-regular-webfont.f5b0d0d9.woff",
+    "static/media/all.min.css": "/static/media/fa-solid-900.d824df7e.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efd31140.js",
+    "static/css/2.ee90a3fe.chunk.css",
+    "static/js/2.35a8ccdf.chunk.js",
+    "static/css/main.413fd350.chunk.css",
+    "static/js/main.39b574c0.chunk.js"
+  ]
+}
